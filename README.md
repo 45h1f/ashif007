@@ -23,5 +23,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashif007&layout=compact&theme=algolia)
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=ashif007&&theme=algolia)
-
+<a href="https://app.daily.dev/ashif"><img src="https://api.daily.dev/devcards/f8927638d84d455f9c78c7d03756f16a.png?r=2in" width="140" alt="Ashiful Islam's Dev Card"/></a>
  
